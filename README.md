@@ -1,3 +1,3 @@
 # MovieDetails
 
-https://mockjoke.github.io/MovieDetails/
+https://guru-404.github.io/MovieDetails/
